@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Covr1G
+- 👋 Hi, I’m @Ion
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning HTML
+- 🌱 I’m currently learning HTML/CSS/Javasctipt
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
